@@ -1,0 +1,7 @@
+G:\repos\超市系统\超市系统\bin\Debug\超市系统.exe.config
+G:\repos\超市系统\超市系统\bin\Debug\超市系统.exe
+G:\repos\超市系统\超市系统\bin\Debug\超市系统.pdb
+G:\repos\超市系统\超市系统\obj\Debug\超市系统.csprojResolveAssemblyReference.cache
+G:\repos\超市系统\超市系统\obj\Debug\超市系统.csproj.CoreCompileInputs.cache
+G:\repos\超市系统\超市系统\obj\Debug\超市系统.exe
+G:\repos\超市系统\超市系统\obj\Debug\超市系统.pdb

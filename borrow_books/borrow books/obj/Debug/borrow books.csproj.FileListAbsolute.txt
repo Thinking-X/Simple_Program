@@ -1,0 +1,6 @@
+C:\Users\42162\source\repos\borrow books\borrow books\bin\Debug\borrow books.exe
+C:\Users\42162\source\repos\borrow books\borrow books\bin\Debug\borrow books.pdb
+C:\Users\42162\source\repos\borrow books\borrow books\obj\Debug\borrow books.csprojResolveAssemblyReference.cache
+C:\Users\42162\source\repos\borrow books\borrow books\obj\Debug\borrow books.csproj.CoreCompileInputs.cache
+C:\Users\42162\source\repos\borrow books\borrow books\obj\Debug\borrow books.exe
+C:\Users\42162\source\repos\borrow books\borrow books\obj\Debug\borrow books.pdb

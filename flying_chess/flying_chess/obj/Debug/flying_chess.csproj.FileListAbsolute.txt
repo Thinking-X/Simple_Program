@@ -1,0 +1,12 @@
+C:\Users\42162\source\repos\flying_chess\flying_chess\bin\Debug\flying_chess.exe
+C:\Users\42162\source\repos\flying_chess\flying_chess\bin\Debug\flying_chess.pdb
+C:\Users\42162\source\repos\flying_chess\flying_chess\obj\Debug\flying_chess.csprojResolveAssemblyReference.cache
+C:\Users\42162\source\repos\flying_chess\flying_chess\obj\Debug\flying_chess.csproj.CoreCompileInputs.cache
+C:\Users\42162\source\repos\flying_chess\flying_chess\obj\Debug\flying_chess.exe
+C:\Users\42162\source\repos\flying_chess\flying_chess\obj\Debug\flying_chess.pdb
+G:\repos\flying_chess\flying_chess\bin\Debug\flying_chess.exe
+G:\repos\flying_chess\flying_chess\bin\Debug\flying_chess.pdb
+G:\repos\flying_chess\flying_chess\obj\Debug\flying_chess.csprojResolveAssemblyReference.cache
+G:\repos\flying_chess\flying_chess\obj\Debug\flying_chess.csproj.CoreCompileInputs.cache
+G:\repos\flying_chess\flying_chess\obj\Debug\flying_chess.exe
+G:\repos\flying_chess\flying_chess\obj\Debug\flying_chess.pdb
