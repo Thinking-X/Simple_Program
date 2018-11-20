@@ -24,7 +24,7 @@ namespace WindowsFormsApp2
         int index;
         private void Form1_Load(object sender, EventArgs e)
         {
-            FileStream fs_ = new FileStream(@"G:/a.txt", FileMode.Open, FileAccess.Read);
+            FileStream fs_ = new FileStream("user_table.txt", FileMode.Open, FileAccess.Read);
             StreamReader sr_ = new StreamReader(fs_);
             string[] users;
             while (sr_.Peek() > -1)//
@@ -105,7 +105,7 @@ namespace WindowsFormsApp2
             comboList.DisplayMember = "ID";
             comboList.ValueMember = "Sex";
 
-            FileStream fs = new FileStream(@"G:/a.txt", FileMode.Append, FileAccess.Write);
+            FileStream fs = new FileStream("user_table.txt", FileMode.Append, FileAccess.Write);
             StreamWriter sw = new StreamWriter(fs);
             sw.Write("{0},{1},{2},{3},{4},{5}\r\n", 
                 user.Name,user.Password,user.Password_,user.TextTel,user.Birthday,user.Gender);
@@ -116,7 +116,7 @@ namespace WindowsFormsApp2
         
         private void button2_Click(object sender, EventArgs e)//显示所有文本
         {
-            FileStream fs = new FileStream(@"G:/a.txt", FileMode.Open, FileAccess.Read);
+            FileStream fs = new FileStream("user_table.txt", FileMode.Open, FileAccess.Read);
             StreamReader sr = new StreamReader(fs);
             textDisplay.Text = sr.ReadToEnd();//
             sr.Dispose();

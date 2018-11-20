@@ -28,3 +28,13 @@ G:\repos\注册_存储_DB\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.Gen
 G:\repos\注册_存储_DB\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 G:\repos\注册_存储_DB\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 G:\repos\注册_存储_DB\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+G:\git\Simple_Program\注册_存储_DB\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+G:\git\Simple_Program\注册_存储_DB\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+G:\git\Simple_Program\注册_存储_DB\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+G:\git\Simple_Program\注册_存储_DB\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+G:\git\Simple_Program\注册_存储_DB\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+G:\git\Simple_Program\注册_存储_DB\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+G:\git\Simple_Program\注册_存储_DB\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+G:\git\Simple_Program\注册_存储_DB\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+G:\git\Simple_Program\注册_存储_DB\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+G:\git\Simple_Program\注册_存储_DB\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
