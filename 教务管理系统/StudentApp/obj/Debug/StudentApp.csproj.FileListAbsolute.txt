@@ -1,0 +1,13 @@
+G:\repos\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+G:\repos\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+G:\repos\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+G:\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+G:\repos\StudentApp\StudentApp\obj\Debug\StudentApp.Form_Stu.resources
+G:\repos\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+G:\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.cache
+G:\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+G:\repos\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+G:\repos\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+G:\repos\StudentApp\StudentApp\obj\Debug\StudentApp.UI.Form_Cour.resources
+G:\repos\StudentApp\StudentApp\obj\Debug\StudentApp.Form_Menu.resources
+G:\repos\StudentApp\StudentApp\obj\Debug\StudentApp.Form_SC.resources
