@@ -1,0 +1,48 @@
+;已知一个带符号的8位数存于NUM单元，
+;若NUM小于0，则将0送MA单元，
+;若NUM等于0，则将1送MA+1单元，
+;若NUM大于0，则将2送MA+2单元
+;并显示出在屏幕上
+
+DATA SEGMENT
+NUM	DB	-7
+MA	DB	3	DUP(?)
+X	DB	?
+DATA ENDS
+
+CODE SEGMENT
+	ASSUME DS:DATA, CS:CODE
+
+START:  MOV AX, DATA
+	MOV DS, AX
+
+	MOV AL, NUM
+	AND AL, AL
+	JS  LP1
+	JZ  LP2
+
+	MOV [MA+2], 2
+	LEA BX, MA+2
+	MOV AL, [BX]
+	MOV X, AL
+	JMP DONE
+
+ LP1:	MOV [MA], 0
+	LEA BX, MA
+	MOV AL, [BX]
+	MOV X, AL
+	JMP DONE
+
+ LP2:	MOV [MA+1], 1
+	LEA BX, MA+1
+	MOV AL, [BX]
+	MOV X, AL
+
+ DONE:	ADD X, 30H
+	MOV DL, X
+	MOV AH, 02H
+	INT 21H
+	MOV AH, 4CH
+	INT 21H
+CODE ENDS
+END START
